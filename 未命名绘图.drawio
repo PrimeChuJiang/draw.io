@@ -696,39 +696,39 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-1" value="创建空间内多个可拖动ui" style="rounded=1;whiteSpace=wrap;html=1;arcSize=50;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="60" width="200" height="40" as="geometry" />
+          <mxGeometry x="-1480" y="40" width="200" height="40" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-21" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zJMDksPQPylMhUXIoFd9-2" target="zJMDksPQPylMhUXIoFd9-20" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-2" value="检测是否拖动了UI" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="115" width="180" height="50" as="geometry" />
+          <mxGeometry x="-1470" y="95" width="180" height="50" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-4" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" parent="1" source="zJMDksPQPylMhUXIoFd9-2" target="zJMDksPQPylMhUXIoFd9-2" edge="1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-1150" y="180" />
-              <mxPoint x="-1330" y="180" />
+              <mxPoint x="-1290" y="160" />
+              <mxPoint x="-1470" y="160" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-5" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1160" y="150" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1300" y="130" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-23" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zJMDksPQPylMhUXIoFd9-6" target="zJMDksPQPylMhUXIoFd9-9" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-6" value="获取当前手柄位置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="330" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1470" y="310" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-8" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1240" y="300" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1380" y="280" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-12" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" parent="1" source="zJMDksPQPylMhUXIoFd9-9" target="zJMDksPQPylMhUXIoFd9-11" edge="1">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-9" value="转化为UI空间位置" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="400" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1470" y="380" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-16" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zJMDksPQPylMhUXIoFd9-11" target="zJMDksPQPylMhUXIoFd9-15" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -742,13 +742,13 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-11" value="是否拖动到另一个UI空间内" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1340" y="485" width="200" height="55" as="geometry" />
+          <mxGeometry x="-1480" y="465" width="200" height="55" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-13" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJMDksPQPylMhUXIoFd9-15" target="BWOF7dTBKUBtCKHQNHfV-10">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-15" value="设置当前可拖动UI空间坐标" style="whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="582.5" width="180" height="27.5" as="geometry" />
+          <mxGeometry x="-1470" y="562.5" width="180" height="27.5" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-22" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="zJMDksPQPylMhUXIoFd9-20" target="zJMDksPQPylMhUXIoFd9-6" edge="1">
           <mxGeometry relative="1" as="geometry" />
@@ -757,7 +757,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-20" value="被拖动的UI是否拥有&lt;div&gt;父类UI&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1330" y="225" width="180" height="75" as="geometry" />
+          <mxGeometry x="-1470" y="205" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-3" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=1;entryY=0.5;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJMDksPQPylMhUXIoFd9-24" target="zJMDksPQPylMhUXIoFd9-6">
           <mxGeometry relative="1" as="geometry" />
@@ -765,44 +765,44 @@
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-6" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="zJMDksPQPylMhUXIoFd9-24" target="BWOF7dTBKUBtCKHQNHfV-5">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-917" y="263" />
+              <mxPoint x="-1057" y="243" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-24" value="被拖动的UI是否被拖动&lt;div&gt;到父类UI之外&lt;/div&gt;" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
-          <mxGeometry x="-1120" y="225" width="180" height="75" as="geometry" />
+          <mxGeometry x="-1260" y="205" width="180" height="75" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-26" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1157" y="238" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1297" y="218" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="zJMDksPQPylMhUXIoFd9-27" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" parent="1" vertex="1">
-          <mxGeometry x="-1250" y="190" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1390" y="170" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-4" value="是" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-1090" y="320" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1230" y="300" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-9" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWOF7dTBKUBtCKHQNHfV-5" target="BWOF7dTBKUBtCKHQNHfV-8">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-5" value="根据手柄位置计算UI最终位置" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1007" y="497.5" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1147" y="477.5" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-7" value="否" style="text;html=1;align=center;verticalAlign=middle;resizable=0;points=[];autosize=1;strokeColor=none;fillColor=none;" vertex="1" parent="1">
-          <mxGeometry x="-920" y="238" width="40" height="30" as="geometry" />
+          <mxGeometry x="-1060" y="218" width="40" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-11" value="" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;" edge="1" parent="1" source="BWOF7dTBKUBtCKHQNHfV-8" target="BWOF7dTBKUBtCKHQNHfV-10">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="-917" y="650" />
-              <mxPoint x="-1070" y="650" />
+              <mxPoint x="-1057" y="630" />
+              <mxPoint x="-1210" y="630" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-8" value="设置当前可拖动UI平面坐标" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1007" y="560" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1147" y="540" width="180" height="30" as="geometry" />
         </mxCell>
         <mxCell id="BWOF7dTBKUBtCKHQNHfV-10" value="结束" style="whiteSpace=wrap;html=1;" vertex="1" parent="1">
-          <mxGeometry x="-1160" y="690" width="180" height="30" as="geometry" />
+          <mxGeometry x="-1300" y="670" width="180" height="30" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
